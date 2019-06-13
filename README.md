@@ -17,23 +17,3 @@ This is my GitHub pages web site.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
