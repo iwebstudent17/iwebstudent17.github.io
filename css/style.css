@@ -112,3 +112,8 @@ section {
         grid-template-columns: 1fr 1fr;
     }
 }
+/* SUB PAGES */
+.page-sub .hero {
+    min-height: 30vh
+    
+}
