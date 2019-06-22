@@ -55,7 +55,7 @@ nav a {
 
 /* FOOTER */
 footer {
-    border-top: 1px solid #ddd;
+    border-top: 1px solid grey;
     max-width: 1000px;
     margin: 0 auto;
 }
