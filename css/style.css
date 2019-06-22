@@ -55,7 +55,7 @@ nav a {
 
 /* FOOTER */
 footer {
-    border-top: 1em solid grey;
+    border-top: 1em solid darkred;
     max-width: 1000px;
     margin: 0 auto;
 }
@@ -81,7 +81,7 @@ section {
     display: grid;
     align-content: center;
     text-align: center;
-    background: darkred;
+    background: grey;
     min-height: 50vh;
     color: white;
 }
