@@ -117,3 +117,10 @@ section {
     min-height: 30vh
     
 }
+
+.ui-designs {
+    text-align: center;
+}
+.ui-designs img {
+    max-width:200px;
+}
